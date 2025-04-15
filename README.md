@@ -1,7 +1,5 @@
 # Secure-Azure-Cloud-Lab
 Hands-on project building a secure cloud environment in Azure using a jumpbox, private subnet, NAT Gateway, and Apache web server.
-# Secure Azure Cloud Lab ☁️🔐
-
 This project demonstrates how to build and secure a private cloud environment in Microsoft Azure — a setup modeled after real-world production environments used by cloud engineers.
 
 ---
