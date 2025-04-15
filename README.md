@@ -39,11 +39,10 @@ This project demonstrates how to build and secure a private cloud environment in
 ---
 
 ## 📸 Screenshots (Coming Soon)
-
-I will add screenshots of:
-- Apache web server running
-- NAT Gateway settings
-- Terminal proof of connectivity
+Screenshot 2025-04-14 7.56.51 PM.png - Overview of my Jumpbox VM
+Screenshot 2025-04-14 7.57.15 PM.png - Overview of my private VM
+Screenshot 2025-04-14 7.57.40 PM.png - Overview of my SecureVNet
+Screenshot 2025-04-14 7.58.11 PM.png - Overview of my SecureNAT
 
 ---
 
